@@ -1,0 +1,84 @@
+
+body {
+	
+}
+
+h1 {
+	
+}
+
+h2 {
+	
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.logo {
+    
+}
+
+section {
+	
+}
+
+aside {
+
+}
+
+
+/* Bike module */
+.bike-list {
+
+}
+
+.bike-list__item {
+	
+}
+
+.bike-list__item-label {
+
+}
+
+.bike-list__item .item-label--pink-text {
+
+}
+
+.bike-list__item .item-label--blue-text {
+
+}
+
+.bike-list__item .item-label--green-text {
+
+}
+
+.bike-list__item img {
+	max-width: 300px;
+}
+
+
+/* Contact-Info module */
+.contact-info {
+
+}
+
+.contact-info__label {
+
+}
+
+.contact-info__value {
+
+}
+
+
+/* Social Links module */
+.social-links {
+
+}
+
+.social-links__icon {
+
+}
