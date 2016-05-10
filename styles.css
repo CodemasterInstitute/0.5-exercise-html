@@ -1,14 +1,14 @@
-
 body {
-	
+	background-color: lightblue;
+	max-width: 1200px;
 }
 
 h1 {
-	
+	font-size: 46px;
 }
 
 h2 {
-	
+	font-size: 34px;
 }
 
 ul {
@@ -18,67 +18,77 @@ ul {
 }
 
 .logo {
-    
+    width: 215px;
+    text-align: center;
 }
 
 section {
-	
+	width: 75%;
+	float: left;
 }
 
 aside {
-
+	width: 25%;
+	float: left;
 }
 
 
 /* Bike module */
 .bike-list {
-
+    padding: 0 50px;
 }
 
 .bike-list__item {
-	
+	float: left;
+	width: 23%;
+	padding: 1%;
 }
 
 .bike-list__item-label {
-
+    text-align: center;
+    width: 100%;
+    display: block;
+    color: gray;
 }
 
 .bike-list__item .item-label--pink-text {
-
+    color: pink;
 }
 
 .bike-list__item .item-label--blue-text {
-
+    color: blue;
 }
 
 .bike-list__item .item-label--green-text {
-
+    color: green;
 }
 
 .bike-list__item img {
-	max-width: 300px;
+    width: 100%;
+    display: block;
 }
 
 
 /* Contact-Info module */
 .contact-info {
-
+	margin: 20px 0;
 }
 
 .contact-info__label {
-
+	font-weight: bold;
 }
 
 .contact-info__value {
-
+	text-decoration: underline;
 }
 
 
 /* Social Links module */
 .social-links {
-
+	margin-top: 40px;
 }
 
 .social-links__icon {
-
+	float: left;
+	width: 33%;
 }
